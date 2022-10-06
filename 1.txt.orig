@@ -1,0 +1,10 @@
+Thi is master code
+<<<<<<< HEAD
+
+This is dev1 code
+
+This is dev2 code
+
+=======
+This is dev3 code
+>>>>>>> dev3
